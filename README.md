@@ -38,7 +38,6 @@
 
 - Graduação Ciência de Dados 
 - Experiência Profissional (Repositório no GitHub em um futuro próximo)
-- MBA em Business analytics e Big Data ou Gerenciamento de Projetos (Repositório no GitHub em um futuro próximo)
 - Por enquanto... é isso
 
 #####  Planos definidos no dia 14/07/2021, sujeito a alteração  

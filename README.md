@@ -1,4 +1,4 @@
-# Tecnólogo em Ciência de Dados :man_technologist:
+# Tecnólogo em Ciência de Dados 
 
 
 
@@ -32,15 +32,6 @@
   - Reinforcement Learning
   - Deep Learning
 
-
-
-# Plano de Carreira ​(​e​x​e​c​ut​i​vo):rocket:
-
-- Graduação Ciência de Dados 
-- Experiência Profissional (Repositório no GitHub em um futuro próximo)
-- Por enquanto... é isso
-
-#####  Planos definidos no dia 14/07/2021, sujeito a alteração  
 
 
 

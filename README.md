@@ -14,9 +14,9 @@
 
   - Lógica de Programação e Algoritmos :heavy_check_mark:
   - Banco de dados :heavy_check_mark:
-  - Sistema Gerenciador de Banco de Dados
-  - Inteligência Artificial Aplicada
-  - Linguagem de Programação
+  - Sistema Gerenciador de Banco de Dados :heaby_check_mark:
+  - Inteligência Artificial Aplicada ✔️
+  - Linguagem de Programação ✔️
   - Estrutura de Dados
   - Engenharia de Software
   - Ferramentas de Desenvolvimento Web
